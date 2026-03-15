@@ -1,0 +1,5 @@
+[console_scripts]
+yundong-ai = yundong_ai.cli:main
+
+[openclaw_skills]
+yundong_ai = yundong_ai
